@@ -95,7 +95,7 @@ a {
 }
 
 .main-event h1 {
-  font-family: cocogoose, sans-serif;
+  font-family: Source Sans Pro, sans-serif;
   color: #5D8AA8;
   font-size: 3rem;
   line-height: 1.2;
@@ -121,7 +121,7 @@ a {
   margin: 0 auto;
   margin-top: 2em;
   color: #3a3d46;
-  font-family: cocogoose, sans-serif;
+  font-family: Source Sans Pro, sans-serif;
   text-transform: uppercase;
 }
 
@@ -264,7 +264,7 @@ hr {
 .about-event { padding: 6em; }
 
 .about-event h1 {
-  font-family: cocogoose, sans-serif;
+  font-family: Source Sans Pro, sans-serif;
   color: #5D8AA8;
   font-size: 3rem;
   line-height: 1.2;
